@@ -10,7 +10,6 @@ const Main = () => {
 		border: '1px solid black'
 	};
 	const styleUl = {
-		listStyle: 'none',
 		textAlign: 'left',
 		fontSize: '18px',
 		fontWeight: '600',

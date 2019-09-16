@@ -1,4 +1,4 @@
-const wesBosData = [
+export const wesBosData = [
 	{
 		userId: 1,
 		id: 1,
@@ -29,7 +29,7 @@ const wesBosData = [
 	}
 ];
 
-const momoData = [
+export const momoData = [
 	{
 		userId: 1,
 		id: 1,
@@ -60,7 +60,7 @@ const momoData = [
 	}
 ];
 
-const tmData = [
+export const tmData = [
 	{
 		userId: 1,
 		id: 1,
@@ -88,5 +88,16 @@ const tmData = [
 		title: 'eum et est occaecati',
 		body:
 			'ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit'
+	}
+];
+
+export const courseMaterials = [
+	{
+		id: 1,
+		title: 'Call it something',
+		img: '/images/course-1.jpg',
+		instructor: 'Wes Bos',
+		description:
+			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, non? Suscipit dolore provident maxime error, ipsam quasi explicabo illo culpa corrupti nihil cum minima eaque.'
 	}
 ];

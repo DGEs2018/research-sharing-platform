@@ -1,0 +1,9 @@
+.container {
+    border: 1px solid #ccc;
+    width: 600px;
+    min-height: 68px;
+    padding: 1px;
+    display: flex;
+    font-size: 14px;
+    line-height: 18px;
+}
